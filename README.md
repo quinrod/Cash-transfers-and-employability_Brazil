@@ -1,7 +1,7 @@
 # Cash-transfers-and-employability_Brazil
-Standard OLS and dprobit model
+## Standard OLS and dprobit model
 
-# Findings
+### Findings
 - Clients of Bolsa Familia (BF), a program that transfers money to the poorest families in the country, are finding jobs faster than other poor groups.
 - Once they start working, only half of Bolsa Familia beneciaries remain employed after a year compared to two-thirds of other poor groups. 
 - While education increases the likelihood of getting a job, it does not improve the ability of Bolsa Familia clients to retain it.
