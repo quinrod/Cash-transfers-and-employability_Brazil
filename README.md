@@ -8,13 +8,13 @@
 - Jobs created in Brazil are concentrated in i) low skills, ii) micro and small rms and iii) regions where many BF beneciaries reside. 
 - Beneficiaries are not losing their jobs because these disappear. It is the difference in accumulated experience vis-à-vis other poor groups that is making beneciaries lose jobs quicker.
 
-# Suggestions
+### Suggestions
 - Complementing classroom training with apprenticeships would enable Bolsa Familia recipients to put recently acquired skills into practice and keep their jobs
 longer. 
 - We recommend to the Ministries of Social Development and Education to provide apprenticeships in micro and small firms to help
 Bolsa Familia beneciaries develop skills that firms demand. 
 
-# Methodology
+### Methodology
 - Stage 1: Investigate the effect of demand, supply and job matching variables on i) job duration (which we use as proxy for rate of job loss) and ii) probability of unemployment. We used i) a standard OLS regression to identify the variables that explain expected job duration and ii) a dprobit regression to explain unemployed
 probability. Both regression specications will use location (rural or urban), region, and occupation fixed effects.
 - Stage 2: Test the following hypotheses in the three major factors aecting higher job loss and unemployment:
@@ -35,6 +35,6 @@ probability. Both regression specications will use location (rural or urban), re
 (b) Beneciaries nd jobs mostly through informal social networks, and may not seek all vacancies available.
 (c) Firms are having a hard time to ll positions that require some qualication.
 
-# Data
+### Data
 -
 -
