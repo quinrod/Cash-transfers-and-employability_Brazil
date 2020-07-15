@@ -21,30 +21,25 @@ probability. Both regression specications will use location (rural or urban), re
 
 1. Supply
 
-(a) BF beneciaries are still severely undereducated and thus less likely to be pro-
-ductive once hired;
+(a) BF beneciaries are still severely undereducated and thus less likely to be productive once hired;
 
-(b) Once employed, female beneciaries (majority of BF beneciaries) tend to lose or
-quit jobs because of opportunity costs at home (childcare and housekeeping);
+(b) Once employed, female beneciaries (majority of BF beneciaries) tend to lose or quit jobs because of opportunity costs at home (childcare and housekeeping);
 
 2. Demand
 
-(a) Jobs are being created by small, non-productive rms that tend to shut down in
-a few years;
+(a) Jobs are being created by small, non-productive rms that tend to shut down in a few years;
 
 (b) Jobs are being destroyed in places with high concentration of BF beneciaries.
 
 3. Job Matching
 
-(a) BF beneciaries are newcomers to job markets, and a good match is unlikely in
-their rst or second job (under this hypothesis, high turnover is not necessarily
+(a) BF beneciaries are newcomers to job markets, and a good match is unlikely in their first or second job (under this hypothesis, high turnover is not necessarily
 negative);
 
-(b) Beneciaries nd jobs mostly through informal social networks, and may not seek
-all vacancies available.
+(b) Beneciaries nd jobs mostly through informal social networks, and may not seek all vacancies available.
 
 (c) Firms are having a hard time to ll positions that require some qualication.
-d
+
 # Data
 -
 -
