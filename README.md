@@ -22,14 +22,14 @@
 
 **02. Demand**
 
-    - (a) Jobs are being created by small, non-productive firms that tend to shut down in a few years;
-    - (b) Jobs are being destroyed in places with high concentration of BF beneciaries.
+    (a) Jobs are being created by small, non-productive firms that tend to shut down in a few years;
+    (b) Jobs are being destroyed in places with high concentration of BF beneciaries.
 
 **03. Job Matching**
 
-    - (a) BF beneciaries are newcomers to job markets, and a good match is unlikely in their first or second job (under this hypothesis, high turnover is not necessarily negative);
-    - (b) Beneciaries find jobs mostly through informal social networks, and may not seek all vacancies available.
-    - (c) Firms are having a hard time to fill positions that require some qualication.
+    (a) BF beneciaries are newcomers to job markets, and a good match is unlikely in their first or second job (under this hypothesis, high turnover is not necessarily negative);
+    (b) Beneciaries find jobs mostly through informal social networks, and may not seek all vacancies available.
+    (c) Firms are having a hard time to fill positions that require some qualication.
 
 ### Data
 -
