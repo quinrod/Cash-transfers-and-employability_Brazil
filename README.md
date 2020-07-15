@@ -21,8 +21,8 @@ probability. Both regression specications will use location (rural or urban), re
 
 **01. Supply**
 
-*(a) BF beneciaries are still severely undereducated and thus less likely to be productive once hired;
-*(b) Once employed, female beneciaries (majority of BF beneciaries) tend to lose or quit jobs because of opportunity costs at home (childcare and housekeeping);
+- (a) BF beneciaries are still severely undereducated and thus less likely to be productive once hired;
+- (b) Once employed, female beneciaries (majority of BF beneciaries) tend to lose or quit jobs because of opportunity costs at home (childcare and housekeeping);
 
 **02. Demand**
 
