@@ -2,10 +2,10 @@
 ## Standard OLS and dprobit model
 
 ### Findings
-- Clients of Bolsa Familia (BF), a program that transfers money to the poorest families in the country, are finding jobs faster than other poor groups. However, once they start working, only half of beneciaries remain employed after a year compared to two-thirds of other poor groups. 
+- Clients of Bolsa Familia, a cash transfer program to the poorest households in Brazil, found jobs in 2011 faster than other poor groups. However, once they start working, only half remain employed after a year compared to two-thirds of other poor groups. 
 - Jobs created in Brazil are concentrated in i) low skills, ii) micro and small firms and iii) regions where many beneciaries reside. 
 - Thus beneficiaries are not losing their jobs because these disappear, because they are undereducated, due to opportunity costs or lack of job-seeking networks. 
-- It is the difference in accumulated experience vis-à-vis other poor groups that is making beneciaries lose their jobs faster. Beneficiaries start to accumulate experience later than (poor) non-beneficiaries and more experienced workers are less likely to lose their jobs in a given period.
+- It is the difference in accumulated experience that is making beneciaries lose their jobs faster. Beneficiaries start accumulating experience later than (poor) non-beneficiaries and are more likely to lose their jobs in a given period.
 
 ### Suggestions
 - Complementing classroom training with apprenticeships would enable BF recipients to put recently acquired skills into practice and keep their jobs. 
